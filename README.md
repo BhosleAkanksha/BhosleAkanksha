@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Akanksha Bhosle 👋
 
-<!--
-**BhosleAkanksha/BhosleAkanksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Engineering Student | Full-Stack Developer in Training
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student currently on a **180-day journey to master the MERN Stack** and build **scalable, AI-powered web applications**.
+My focus is on **strong problem-solving, full-stack development, and real-world projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+Frontend
+HTML5 • CSS3 • JavaScript • React.js
+
+Backend
+Node.js • Express.js
+
+Database
+MongoDB • SQL
+
+Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+### 📈 Current Focus
+
+• Building a Smart Traffic Management System  
+• Solving DSA problems daily  
+• Learning Cloud Deployment
+
+---
+
+### 📫 Connect With Me
+
+Portfolio: Coming soon
+LinkedIn: your link  
+Portfolio: Coming soon
