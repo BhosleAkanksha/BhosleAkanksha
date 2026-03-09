@@ -32,7 +32,4 @@ Git • GitHub • VS Code • Postman
 ---
 
 ### 📫 Connect With Me
-
-Portfolio: Coming soon
-LinkedIn: your link  
 Portfolio: Coming soon
